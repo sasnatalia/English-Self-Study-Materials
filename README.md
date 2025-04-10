@@ -1,4 +1,6 @@
 # English-Self-Study-Materials
 English Self-Study Materials
 
-## https://www.freecodecamp.org/learn/a2-english-for-developers/
+## [A2 english-for-developers Certification](https://www.freecodecamp.org/learn/a2-english-for-developers/ "www.freecodecamp.org")
+
+## [English levels & materials for learners (A1-C1)](https://campus.epam.com/en/blog/582 "https://campus.epam.com/")
